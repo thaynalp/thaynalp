@@ -8,7 +8,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="180" alt="coding-time" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+    <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
     <h1 align="center">Tecnologias mais utilizadas</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,15 +18,14 @@
    </div>
 
   <div align="center">
-   <h1 align="center">Redes Sociais</h1>
-     <a href = "https://www.linkedin.com/in/thaynalp/">
-      <img align="center" width="25" src="https://user-images.githubusercontent.com/112887006/228399091-94f77a04-e41f-48cd-b062-145525bafb63.png">
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "https://www.linkedin.com/in/thaynalp/">
+      <img width="30" src="https://user-images.githubusercontent.com/112887006/228399091-94f77a04-e41f-48cd-b062-145525bafb63.png">
     </a>
     <a href = "mailto: thaynalp.rj@hotmail.com">
-      <img align="center" width="30" src="https://user-images.githubusercontent.com/112887006/228398879-32dcaa79-0223-4095-b025-d94ddb58a366.png">
+      <img width="25" src="https://user-images.githubusercontent.com/112887006/228398879-32dcaa79-0223-4095-b025-d94ddb58a366.png">
     </a>
 </div>
-  
   
 
 <!-- ![Snake animation](https://github.com/thaynalp/thaynalp/blob/output/github-contribution-grid-snake.svg) -->
