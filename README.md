@@ -1,4 +1,4 @@
-## Que bom que você veio!
+# Que bom que você veio!
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynalp&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -8,7 +8,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+    <img align="left" height="240" alt="coding-time" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
     <h1 align="center">Tecnologias mais utilizadas</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
