@@ -19,10 +19,10 @@
 </br>
   <div>
    <h1 align="center">Redes Sociais</h1>
-     <a href = "https://www.linkedin.com/in/thaynalp/" target="_blank">
+     <a href = "https://www.linkedin.com/in/thaynalp/">
       <img width="25" src="https://user-images.githubusercontent.com/112887006/228399091-94f77a04-e41f-48cd-b062-145525bafb63.png">
     </a>
-    <a href = "mailto: thaynalp.rj@hotmail.com" target="_blank">
+    <a href = "mailto: thaynalp.rj@hotmail.com">
       <img width="30" src="https://user-images.githubusercontent.com/112887006/228398879-32dcaa79-0223-4095-b025-d94ddb58a366.png">
     </a>
 </div>
