@@ -1,6 +1,15 @@
 # Que bom que você veio!
 _Veja os projetos e aproveite pra dar um Follow_
 
+ <div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynalp&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynalp&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+  <br>
+  <hr>
+  <br>
+
+<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="230" alt="coding-time" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -21,13 +30,5 @@ _Veja os projetos e aproveite pra dar um Follow_
       <img width="25" src="https://user-images.githubusercontent.com/112887006/228398879-32dcaa79-0223-4095-b025-d94ddb58a366.png">
     </a>
 </div>
-  <br>
-  <hr>
-  <br>
- <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynalp&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynalp&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
 
 <!-- ![Snake animation](https://github.com/thaynalp/thaynalp/blob/output/github-contribution-grid-snake.svg) -->
