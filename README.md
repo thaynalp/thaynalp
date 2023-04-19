@@ -3,7 +3,7 @@ _Veja os projetos e aproveite pra dar um Follow_
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="240" alt="coding-time" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+    <img align="left" height="230" alt="coding-time" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
     <h2 align="center">Tecnologias mais utilizadas</h2>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
